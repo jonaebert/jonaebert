@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @jonasebert
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning svelte, html, css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me contact@jonasebert.de
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning svelte, html, css, typescript
+- 📫 How to reach me <a href="mailto:contact@jonasebert.de">contact@jonasebert.de</a>
 - 😄 Pronouns: xier/xies
-- ⚡ Fun fact: ...
 
 <!---
 jonasebert/jonasebert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
