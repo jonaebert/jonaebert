@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonasebert
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning svelte, html, css, typescript
-- 📫 How to reach me <a href="mailto:contact@jonasebert.de">contact@jonasebert.de</a>
+- 📫 How to reach me <a href="https://jonasebert.de/contact">contact@jonasebert.de</a>
 - 😄 Pronouns: xier/xies
 
 <!---
