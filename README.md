@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jonasebert
+- 👋 Hi, I’m @jonaebert
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning svelte, html, css, typescript
-- 📫 How to reach me <a href="https://jonasebert.de/contact">jonasebert.de</a>
-- 😄 Pronouns: xier/xies
+- 📫 How to reach me <a href="https://jonaebert.de/contact">jonaebert.de</a>
+- 😄 Pronouns: they/them
 
 <!---
 jonasebert/jonasebert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
