@@ -1,6 +1,6 @@
 <!-- Profilbanner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005538,100:008939&height=180&section=header&text=Hi%20👋%20Ich%20bin%20Jona&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008939,100:005538&height=180&section=header&text=Hi%20👋%20Ich%20bin%20Jona&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
